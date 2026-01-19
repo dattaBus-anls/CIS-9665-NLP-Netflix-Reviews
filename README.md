@@ -115,3 +115,7 @@ This component demonstrates real-world applicability and model behavior using un
 
 - Kaggle Netflix Reviews Dataset
 - NLTK, spaCy, scikit-learn, TensorFlow, Hugging Face Transformers
+
+## Web
+
+https://nlp-netflix-reviews-cis-9665.streamlit.app/
